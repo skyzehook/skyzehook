@@ -10,7 +10,9 @@
   <img src="https://img.shields.io/badge/Assembly-333333?logo=asm&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%20API-0078D6?logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/DirectX-000000?logo=directx&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white" />
   <img src="https://img.shields.io/badge/ImGui-1E1E1E?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Reverse%20Engineering-000000?logo=probot&logoColor=white" />
   <img src="https://img.shields.io/badge/Kernel-101010?logo=linux&logoColor=white" />
 </p>
@@ -19,9 +21,10 @@
 
 ## 🚀 About Me
 - ⚙️ Exploring **Windows internals, drivers, and low-level programming**.  
-- 🎮 Building overlays, injectors, and learning graphics APIs like **DirectX 11**.  
-- 📚 Currently improving in **Assembly** and system-level concepts.  
+- 🎮 Building overlays, injectors, and learning graphics APIs like **DirectX 11 & OpenGL**.  
+- 📚 Currently improving in **C, C++ & Assembly** and system-level concepts.  
 - 🔍 Interested in **reverse engineering** & debugging.  
+- 🖤 Always coding in **dark mode**.  
 
 ---
 
