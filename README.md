@@ -22,7 +22,7 @@
 ## 🚀 About Me
 - ⚙️ Exploring **Windows internals, drivers, and low-level programming**.  
 - 🎮 Building overlays, injectors, and learning graphics APIs like **DirectX 11 & OpenGL**.  
-- 📚 Currently improving in **C, C++ & Assembly** and system-level concepts.  
+- 📚 Currently improving in **Assembly** and system-level concepts.  
 - 🔍 Interested in **reverse engineering** & debugging.  
 - 🖤 Always coding in **dark mode**.  
 
