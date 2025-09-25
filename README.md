@@ -45,7 +45,10 @@
 
 ## 🔗 Connect
 <p align="center">
-  <a href="https://github.com/skyzehook"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
+  <a href="https://github.com/skyzehook">
+    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/920014188447924224">
+    <img src="https://img.shields.io/badge/Discord-skyzehook-7289DA?logo=discord&logoColor=white" />
+  </a>
 </p>
-
----
